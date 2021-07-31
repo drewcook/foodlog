@@ -1,11 +1,9 @@
-# README
+# Foodlog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This is a Ruby on Rails application using a SQLite database to display food log entries.
 
 * Ruby version
+`2.6.3`
 
 * System dependencies
 
